@@ -118,3 +118,25 @@ transparent 0%, transparent 0%, rgba(94, 111, 135, 1) 75%, rgba(94, 111, 135, 1)
              40px 40px hsla(202, 71%, 31%, 1);
   transform: rotate(-6deg);
 }
+
+
+.modal-header {
+    background: #202020;
+    color: #ffffff;
+}
+
+.modal-body {
+    background: #202020;
+    color: #ffffff;
+}
+
+.modal-body ul li a {
+    text-align: center;
+    background: #202020;
+    color: #ffffff;
+}
+
+.modal-footer {
+    background: #202020;
+    color: #ffffff;
+}
