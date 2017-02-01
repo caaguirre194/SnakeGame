@@ -13,7 +13,7 @@ Snake Game usando:
  ![GitHub](/img/nivelaa_2.png)
 ## PLAY:
  ![GitHub](/img/juego1.png)
-### Cada vez que te alimentes creceras más.
+### Cada vez que te alimentes crecerás más.
  ![GitHub](/img/juego2.png)
 
 
