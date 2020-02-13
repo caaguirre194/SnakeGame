@@ -1,6 +1,6 @@
 # SnakeGame
 
-Puedes visualizar el juego en el siguiente link: https://andreswick.github.io/SnakeGame/
+Puedes visualizar el juego en el siguiente link: https://caaguirre194.github.io/SnakeGame/
 
 Snake Game usando:
 * [x] [Jquery-3.1.1](https://github.com/caaguirre194/SnakeGame/tree/master/js/jquery-3.1.1.js)
