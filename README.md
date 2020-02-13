@@ -7,7 +7,7 @@ Snake Game usando:
 
 
 ## Instrucciones del juego:
- ![GitHub](/img/instrucciones (1).png)
+ ![GitHub](/img/instrucciones.png)
 ## Selecciona la dificultad:
  ![GitHub](/img/nivel_1.png)
  ![GitHub](/img/nivelaa_2.png)
