@@ -18,8 +18,6 @@ Snake Game usando:
 
 
 Autores:
-*  [GitHub](https://github.com/USERCALL)
-    @USERCALL
-*  [GitHub](https://github.com/AndresWick)
-    @AndresWick
+*  [GitHub](https://github.com/caaguirre194)
+    @caaguirre194
 
